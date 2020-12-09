@@ -8,6 +8,9 @@ Follow along with my [Advent of Code 2020](https://adventofcode.com) solutions:
 - [day 4](https://gist.github.com/Mellen/876c8061f83b8f0c1fd14b742dba4d4e)
 - [day 5](https://gist.github.com/Mellen/3b2db2540bb6d4e4c1083461d0a22140)
 - [day 6](https://gist.github.com/Mellen/0129f54fe5c9559a4e01cd008ff36278)
+- [day 7](https://gist.github.com/Mellen/edd62f5310b2576c868f8a1cb366b938)
+- [day 8](https://gist.github.com/Mellen/e0f69c71aa55bca63cd2fa53a90254a8)
+- [day 9](https://gist.github.com/Mellen/21efb67ce89529e8ce830764c4b18261)
 
 <!--
 **Mellen/Mellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
