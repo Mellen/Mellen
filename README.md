@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Follow along with my [Advent of Code 2020](https://adventofcode.com) solutions:
+Follow along with my [Advent of Code 2020](https://adventofcode.com/2020) solutions:
 
 <table>
   <tr><td><a href="https://gist.github.com/Mellen/0f35c287a8eae480a3357cd37e11976e">day 1</a></td><td><a href="https://gist.github.com/Mellen/857a8c4b123888dad40707ca5d7c7718">day 2</></td><td><a href="https://gist.github.com/Mellen/bc5388b96ed3b1dfef3af3c6b4d5138b2">day 3</a></td><td><a href="https://gist.github.com/Mellen/876c8061f83b8f0c1fd14b742dba4d4e">day 4</a></td><td><a href="https://gist.github.com/Mellen/3b2db2540bb6d4e4c1083461d0a22140">day 5</a></td></tr>
