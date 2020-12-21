@@ -7,7 +7,7 @@ Follow along with my [Advent of Code 2020](https://adventofcode.com/2020) soluti
     <tr><td><a href="https://gist.github.com/Mellen/0129f54fe5c9559a4e01cd008ff36278">day 6</a></td><td><a href="https://gist.github.com/Mellen/edd62f5310b2576c868f8a1cb366b938">day 7</a></td><td><a href="https://gist.github.com/Mellen/e0f69c71aa55bca63cd2fa53a90254a8">day 8</a></td><td><a href="https://gist.github.com/Mellen/21efb67ce89529e8ce830764c4b18261">day 9</a></td><td><a href="https://gist.github.com/Mellen/32c512f6598ebbf8af033f1326a04de4">day 10</a></td></tr>
   <tr><td><a href="https://gist.github.com/Mellen/7f88524e20979af9b3ccc562a41ff1e1">day 11</></td><td><a href="https://gist.github.com/Mellen/5135944aeb1bfd01f311f576d14f374f">day 12</a></td><td>day 13</td><td>day 14</td><td>day 15</td></tr>
   <tr><td><a href="https://gist.github.com/Mellen/99806e8cb7a27f78368203c1522f54ac">day 16</></td><td>day 17</td><td>day 18</td><td>day 19</td><td>day 20</td></tr>
-  <tr><td>day 21</td><td>day 22</td><td>day 23</td><td>day 24</td><td>day 25</td></tr>
+  <tr><td><a href="https://gist.github.com/Mellen/1dd05482de9a8f8c72803cfca90f3b15">day 21</a></td><td>day 22</td><td>day 23</td><td>day 24</td><td>day 25</td></tr>
 </table>
 
 <!--
