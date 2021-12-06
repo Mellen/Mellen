@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Follow along with my [Advent of Code 2020](https://adventofcode.com/2020) solutions:
+Follow along with my [Advent of Code 2021](https://adventofcode.com/2021) solutions:
 
 <table>
-  <tr><td><a href="https://gist.github.com/Mellen/0f35c287a8eae480a3357cd37e11976e">day 1</a></td><td><a href="https://gist.github.com/Mellen/857a8c4b123888dad40707ca5d7c7718">day 2</></td><td><a href="https://gist.github.com/Mellen/bc5388b96ed3b1dfef3af3c6b4d5138b2">day 3</a></td><td><a href="https://gist.github.com/Mellen/876c8061f83b8f0c1fd14b742dba4d4e">day 4</a></td><td><a href="https://gist.github.com/Mellen/3b2db2540bb6d4e4c1083461d0a22140">day 5</a></td></tr>
-    <tr><td><a href="https://gist.github.com/Mellen/0129f54fe5c9559a4e01cd008ff36278">day 6</a></td><td><a href="https://gist.github.com/Mellen/edd62f5310b2576c868f8a1cb366b938">day 7</a></td><td><a href="https://gist.github.com/Mellen/e0f69c71aa55bca63cd2fa53a90254a8">day 8</a></td><td><a href="https://gist.github.com/Mellen/21efb67ce89529e8ce830764c4b18261">day 9</a></td><td><a href="https://gist.github.com/Mellen/32c512f6598ebbf8af033f1326a04de4">day 10</a></td></tr>
-  <tr><td><a href="https://gist.github.com/Mellen/7f88524e20979af9b3ccc562a41ff1e1">day 11</></td><td><a href="https://gist.github.com/Mellen/5135944aeb1bfd01f311f576d14f374f">day 12</a></td><td>day 13</td><td>day 14</td><td>day 15</td></tr>
-  <tr><td><a href="https://gist.github.com/Mellen/99806e8cb7a27f78368203c1522f54ac">day 16</></td><td>day 17</td><td>day 18</td><td>day 19</td><td>day 20</td></tr>
-  <tr><td><a href="https://gist.github.com/Mellen/1dd05482de9a8f8c72803cfca90f3b15">day 21</a></td><td>day 22</td><td>day 23</td><td>day 24</td><td>day 25</td></tr>
+  <tr><td><a href="https://gist.github.com/Mellen/cc58ad94177a92124de6b918f4f0accd">day 1 part 1</a><br><a href="https://gist.github.com/Mellen/094da6e5c3d3b6ec64884a75f0c8db1d">day 1 part 2</a></td><td><a href="">day 2 part 1</a><br><a href="">day 2 part 2</a></td><td><a href="">day 3 part 1</a><br><a href="">day 3 part 2</a></td><td><a href="">day 4 part 1</a><br><a href="">day 4 part 2</a></td><td><a href="">day 5 part 1</a><br><a href="">day 5 part 2</a></td></tr>
+    <tr><td><a href="">day 6 part 1</a><br><a href="">day 6 part 2</a></td><td><a href="">day 7 part 1</a><br><a href="">day 7 part 2</a></td><td><a href="">day 8 part 1</a><br><a href="">day 8 part 2</a></td><td><a href="">day 9 part 1</a><br><a href="">day 9 part 2</a></td><td><a href="">day 10 part 1</a><br><a href="">day 10 part 2</a></td></tr>
+  <tr><td><a href="">day 11 part 1</a><br><a href="">day 11 part 2</a></td><td><a href="">day 12 part 1</a><br><a href="">day 12 part 2</a></td><td><a href="">day 13 part 1</a><br><a href="">day 13 part 2</a></td><td><a href="">day 14 part 1</a><br><a href="">day 14 part 2</a></td><td><a href="">day 15 part 1</a><br><a href="">day 15 part 2</a></td></tr>
+  <tr><td><a href="">day 16 part 1</a><br><a href="">day 16 part 2</a></td><td><a href="">day 17 part 1</a><br><a href="">day 17 part 2</a></td><td><a href="">day 18 part 1</a><br><a href="">day 18 part 2</a></td><td><a href="">day 19 part 1</a><br><a href="">day 19 part 2</a></td><td><a href="">day 20 part 1</a><br><a href="">day 20 part 2</a></td></tr>
+  <tr><td><a href="">day 21 part 1</a><br><a href="">day 21 part 2</a></td><td><a href="">day 22 part 1</a><br><a href="">day 22 part 2</a></td><td><a href="">day 23 part 1</a><br><a href="">day 23 part 2</a></td><td><a href="">day 24 part 1</a><br><a href="">day 24 part 2</a></td><td><a href="">day 25 part 1</a><br><a href="">day 25 part 2</a></td></tr>
 </table>
 
 <!--
